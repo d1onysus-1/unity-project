@@ -1,0 +1,9 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+UpgradeLog.htm
